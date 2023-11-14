@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Test_bip</string>
+    <string name="srp_input">Введите ГРЗ</string>
+    <string name="srp_number_input">Введите код региона</string>
+    <string name="skip_button">Пропустить</string>
+    <string name="continue_button">Продолжить</string>
+    <string name="vrc_input">Введите СТС</string>
+    <string name="page_2">2/3</string>
+    <string name="page_1">1/3</string>
+    <string name="page_3">3/3</string>
+    <string name="dl_input">Введите ВУ</string>
+    <string name="empty_input_error">Необходимо заполнить все поля</string>
+    <string name="invalid_input_error">Данные введены некорректно</string>
+    <string name="skip_this_step_title">Пропустить этот шаг?</string>
+    <string name="stay_button">Остаться</string>
+    <string name="not_filled_in">Не заполнено</string>
+</resources>
